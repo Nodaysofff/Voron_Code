@@ -144,72 +144,87 @@
     "materials" : [
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.020983820781111717,
+                1,
+                0.29276280105113983
+            ],
             "name" : "SVGMat",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.006995410192757845,
-                    0.9473065137863159,
-                    0.09758734703063965,
+                    0,
+                    0,
+                    0,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                ]
             }
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.020983820781111717,
+                1,
+                0.29276280105113983
+            ],
             "name" : "SVGMat.001",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.006995410192757845,
-                    0.9473065137863159,
-                    0.09758734703063965,
+                    0,
+                    0,
+                    0,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                ]
             }
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.020983820781111717,
+                1,
+                0.29276280105113983
+            ],
             "name" : "SVGMat.002",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.006995410192757845,
-                    0.9473065137863159,
-                    0.09758734703063965,
+                    0,
+                    0,
+                    0,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                ]
             }
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                0.020983820781111717,
+                1,
+                0.29276280105113983
+            ],
             "name" : "SVGMat.003",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    0.006995410192757845,
-                    0.9473065137863159,
-                    0.09758734703063965,
+                    0,
+                    0,
+                    0,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                ]
             }
         },
         {
             "doubleSided" : true,
+            "emissiveFactor" : [
+                1,
+                1,
+                1
+            ],
             "name" : "SVGMat.004",
             "pbrMetallicRoughness" : {
                 "baseColorFactor" : [
-                    1,
-                    1,
-                    1,
+                    0,
+                    0,
+                    0,
                     1
-                ],
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0.4000000059604645
+                ]
             }
         }
     ],
